@@ -16,7 +16,17 @@ h1{
 #lista{
     font-style: italic;
 }
+
+footer {
+    text-align: center;
+    border-top: #ccc solid 1px;
+    padding: 10px;
+}
+
 footer img{
     width: 32px;
+}
 
+footer a {
+    text-decoration: none;
 }
